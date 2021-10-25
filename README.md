@@ -1,4 +1,4 @@
-### Hi there 👋
+### Howdy 🤠
 
 <!--
 **kaboom06/kaboom06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Keshav Bagrodia and i am currently in my 10th Grade.  I started coding 2 years back when i did a free course on codecdemy in which i didnt understand any thing 😜. But since then i have come a long long long way ahead. 
+
+I am currently still learning to code but I know the bare minimum like the syntax and loops. To improve this knowledge i am currently ding the 30 days of code challenge on Hackerrank. My current Hackos on Hackerrank is 148, which is quite low so I am working on improving it.
